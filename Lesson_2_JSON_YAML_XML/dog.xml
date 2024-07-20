@@ -1,0 +1,28 @@
+
+<data>
+   <owner_data>
+      <name>Anna</name>
+      <age>28</name>
+      <nationality>ukrainian</nationality>
+      </owner_data>
+      <dogs_data>
+      <name>Benny</name>
+      <breed>shiba_inu</breed>
+      <age>2</age>
+      <sickness>true<sickness/>
+      <fav_toys>rubber_duck,fluffy_frog</fav_toys>
+      <won_contests>2</won_contests>
+      <name>Bobby</name>
+      <breed>dooddle</breed>
+      <age>12</age>
+      <sickness>true</sickness>
+      <fav_toys>teddy_bear</fav_toys>
+      <won_contests>5</won_contests>
+      <name>Daisy</name>
+      <breed>labrador</breed>
+      <age>8</age>
+      <sickness>false</sickness>
+      <fav_toys>squeeky_ball</fav_toys>
+      <won_contests>null</won_contests>
+   </dogs_data>
+   </data>

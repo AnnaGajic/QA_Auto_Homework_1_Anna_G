@@ -1,0 +1,27 @@
+---
+data:
+  owner_data:
+    name: Anna
+    age: 28
+    nationality: ukrainian
+  dogs_data:
+    - name: Benny
+      breed: shiba inu
+      age: 2
+      sickness: true
+      fav_toys:
+        - rubber_duck
+        - fluffy_frog
+      won_contests: 2
+    - name: Daisy
+      breed: labrador
+      age: 8
+      sickness: false
+      fav_toys: squeeky_ball
+      won_contests:
+    - name: Bobby
+      breed: dooddle
+      age: 12
+      sickness: true
+      fav_toys: teddy_bear
+      won_contests: 5
